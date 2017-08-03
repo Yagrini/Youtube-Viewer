@@ -1,0 +1,44 @@
+body{
+background-color:  #8c1a1a;
+
+}
+#search{
+  margin:15px ;
+  border: 1px solid black;
+  width: 400px;
+}
+#input1{
+  outline:none;
+  border:none;
+  margin-right: 1 px;
+  width: 340px;
+  height: 25px;
+  padding-left: 10px;
+  font-family: verdana;
+}
+#mybutton{
+  outline:none;
+  background-color: white;
+  border: 1px solid #aaa;
+  width:57px;
+  height: 25px;
+}
+#mybutton:hover{
+  background-color: #aaa;
+}
+
+.details{
+  margin:20px auto;
+}
+#title{
+  font-size: 14pt;
+  color: #e0d8ce;
+}
+#desc{
+  color: #c2b39f;
+}
+
+
+.video-list:hover{
+cursor: pointer;
+}
